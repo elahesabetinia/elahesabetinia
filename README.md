@@ -253,16 +253,17 @@ console.log(ayg.describe());
 <div align="center">
   
   <br>
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+  <img src="https://i.imgur.com/0t9sH5h.jpeg" width="100%">
   
   <br>
   
   <!-- Animated typing effect -->
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=4000&color=ff6b9d&center=true&vCenter=true&width=500&lines=Building+with+passion+and+precision+✨;Code+that+tells+a+story+🌸;Turning+ideas+into+digital+experiences+🎨" />
   
   <br><br>
   
-  **⭐️ From [AYG](https://github.com/yourusername)**
+  **⭐️ From [AYG](https://github.com/elahesabetinia)**
   
   <br>
   </div>
