@@ -129,13 +129,11 @@ console.log(ayg.describe());
 
 <div align="center">
   
-  <!-- Replace "yourusername" with your actual GitHub username -->
-  
   ![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=elahesabetinia&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6b9d&icon_color=9d4edd&text_color=ffffff&border_color=9d4edd&hide_border=false)
   
   <br>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&border_color=9d4edd&hide_border=false)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elahesabetinia&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&border_color=9d4edd&hide_border=false)
   
   <br>
   
