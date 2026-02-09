@@ -10,10 +10,7 @@
   
   <br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b9d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahe-sabetinia/)
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-ffd166?style=for-the-badge&logo=github&logoColor=black)](https://github.com/elahesabetinia)
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b9d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahe-sabetinia/)  [![X](https://img.shields.io/badge/X-9d4edd?style=for-the-badge&logo=&logoColor=white)](https://x.com/elahesabetinia)  [![Email](https://img.shields.io/badge/📧_Email-6bcf7f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elahesabetinias@gmail.com)
 
   <br>
   
@@ -224,7 +221,7 @@ console.log(ayg.describe());
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:elahesabetinia1@gmail.com">
+        <a href="mailto:elahesabetinias@gmail.com">
           <img src="https://img.shields.io/badge/📧_Email-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
