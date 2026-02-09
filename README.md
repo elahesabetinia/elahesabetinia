@@ -11,6 +11,7 @@
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b9d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elahe-sabetinia/)
+  
   [![GitHub](https://img.shields.io/badge/GitHub-ffd166?style=for-the-badge&logo=github&logoColor=black)](https://github.com/elahesabetinia)
   
 
@@ -223,20 +224,20 @@ console.log(ayg.describe());
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:your.email@example.com">
+        <a href="mailto:elahesabetinia1@gmail.com">
           <img src="https://img.shields.io/badge/📧_Email-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/yourprofile/">
+        <a href="https://www.linkedin.com/in/elahe-sabetinia/">
           <img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://twitter.com/yourhandle">
-          <img src="https://img.shields.io/badge/Twitter-4d96ff?style=for-the-badge&logo=twitter&logoColor=white" />
+        <a href="https://x.com/ElaheSabetinia">
+          <img src="https://img.shields.io/badge/AYG_X-4d96ff?style=for-the-badge&logo=twitter&logoColor=white" />
         </a>
       </td>
       <td align="center">
