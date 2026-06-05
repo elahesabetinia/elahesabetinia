@@ -6,7 +6,7 @@
   
   ### *Computer Engineering Student | Creative Developer & Designer*
   
-  *Where logic meets art in digital spaces*
+  *Where logic meets art*
   
   <br>
   
@@ -124,23 +124,6 @@ console.log(ayg.describe());
   
 </div>
 
-<!-- ============================ GITHUB STATS ============================ -->
-## 📊 ・˖⁺‧ ࣪  GitHub Stats  ‧⁺˖・ 📊
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=elahesabetinia&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6b9d&icon_color=9d4edd&text_color=ffffff&border_color=9d4edd&hide_border=false)
-  
-  <br>
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elahesabetinia&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&border_color=9d4edd&hide_border=false)
-  
-  <br>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0d1117&border=9d4edd&stroke=9d4edd&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d)
-  
-</div>
-
 <!-- ============================ CURRENTLY WORKING ON ============================ -->
 ## 🌟 ・˖⁺‧ ࣪  Currently Working On  ‧⁺˖・ 🌟
 
@@ -249,7 +232,6 @@ console.log(ayg.describe());
 <div align="center">
   
   <br>
-  <img src="https://i.imgur.com/0t9sH5h.jpeg" width="100%">
   
   <br>
   
