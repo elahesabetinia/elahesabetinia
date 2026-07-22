@@ -1,6 +1,6 @@
 #  Hi, I'm ELAHE
 
-**Back-End Developer | Front-End Developer**
+**Junior Back-End Developer And Front-End Developer**
 
 
 ## 🛠️ Tech Stack
