@@ -2,6 +2,8 @@
 
 **Junior Back-End And Front-End Developer**
 
+I used to design websites and build mini games with python but now i'm currently focused on developing my skills in back-end area.
+
 
 ## 🛠️ Tech Stack
 
